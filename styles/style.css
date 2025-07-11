@@ -1,0 +1,25 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body {
+    background-color: #daebf36d;
+}
+
+
+
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.Primary-Color {
+    color: #4E47FF;
+}
+
+.bg-primary {
+    background-color: #4E47FF;
+}
