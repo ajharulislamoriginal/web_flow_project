@@ -38,7 +38,7 @@ body {
 
 
 .header-section {
-     background: url("images/Hero-bg.png");
+     background: url("/images/Hero-bg.png");
     height:500px;
 }
 
